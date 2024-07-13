@@ -145,7 +145,7 @@ export const BentoGridItem = ({
               position="left"
               otherClasses="!bg-[#161a31]"
               handelClick={()=>{
-                navigator.clipboard.writeText('hamzaomarblala@gmail.com')
+                navigator.clipboard.writeText('example@example.com')
 
                 setCopied(true)
               }}
